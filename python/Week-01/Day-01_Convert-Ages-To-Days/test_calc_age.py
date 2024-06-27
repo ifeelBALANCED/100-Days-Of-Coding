@@ -9,5 +9,5 @@ from week1_day1 import calc_age
     (65, 23725),
     (20, 7300),
 ])
-def test_calc_age(input_age_in_years, expected_days):
+def test_calc_age(input_age_in_years: int, expected_days: int) -> None:
     assert calc_age(input_age_in_years) == expected_days
