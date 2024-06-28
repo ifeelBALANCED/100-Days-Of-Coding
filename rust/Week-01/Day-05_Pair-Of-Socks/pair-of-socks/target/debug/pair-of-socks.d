@@ -1,0 +1,1 @@
+/Users/vladislavgerasimenko/RustroverProjects/100-Days-Of-Coding/rust/Week-01/Day-05_Pair-Of-Socks/pair-of-socks/target/debug/pair-of-socks: /Users/vladislavgerasimenko/RustroverProjects/100-Days-Of-Coding/rust/Week-01/Day-05_Pair-Of-Socks/pair-of-socks/src/main.rs
