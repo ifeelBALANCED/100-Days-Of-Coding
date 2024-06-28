@@ -21,13 +21,15 @@ jobs:
       - name: Find Rust projects
         id: find-projects
         run: |
-          projects=$(find . -type f -name "Cargo.toml" -exec dirname {} \; | sort -u)
+          projects=$(find . -type f -name "Cargo.toml" -exec dirname {} \; | sort -u | jq -R -s -c 'split("\n")[:-1]')
           echo "Found projects: $projects"
           echo "projects=$projects" >> $GITHUB_OUTPUT
 
       - name: Build and test projects
         run: |
-          for project in ${{ steps.find-projects.outputs.projects }}; do
+          projects='${{ steps.find-projects.outputs.projects }}'
+          echo "$projects" | jq -c '.[]' | while read project; do
+            project=$(echo $project | tr -d '"')
             echo "Building and testing $project"
             cd "$project"
             if [ -f "Cargo.lock" ]; then
