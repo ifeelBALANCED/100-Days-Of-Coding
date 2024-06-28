@@ -5,13 +5,13 @@ Today we are going to do something colorfull and amazing. Yes it is a color maze
 You traverse a color by following a sequence of colors. For example this maze can be solved by the sequence 'orange -> green':
 
 <p align="center">
-  <img src="../../assets/maze_color_1.png" alt="maze color">
+  <img src="../../../assets/maze_color_1.png" alt="maze color">
 </p>
 
 Then you would have something like this (paint skills):
 
 <p align="center">
-  <img src="../../assets/maze_color_2.png" alt="maze color solution">
+  <img src="../../../assets/maze_color_2.png" alt="maze color solution">
 </p>
 
 For the mazes you always pick a spot on the bottom, in the starting color and try to get to the first row. Once you reach the first row, you are out of the maze. The sequence does not have to be complete.

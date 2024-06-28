@@ -46,7 +46,7 @@ Most notably, if the tweets are all @replies with the same text, you have found 
 ### Confusing Screen Name / URL Combination
 
 <p align="left">
-  <img src="../../../python/assets/Confusing-Screen-Name.png" alt="confusing screen name">
+  <img src="../../../assets/Confusing-Screen-Name.png" alt="confusing screen name">
 </p>
 
 This is an easy one. There are multiple things to look for in a screen name. The first is if you see the profile URL as something like “twitter.com/john-smith” but when you view the profile, the first and last name listed above the bio has no relation to the URL. For example, it would say something like “Sarah Jones” which obviously has no direct relation to “John Smith” that is in the URL.
@@ -56,7 +56,7 @@ The other red flag regarding screen names and URL combinations is if you see an 
 ### Incoherent Tweets
 
 <p align="left">
-  <img src="../../../python/assets/Incoherent-Tweets.png" alt="incoherent tweets">
+  <img src="../../../assets/Incoherent-Tweets.png" alt="incoherent tweets">
 </p>
 
 Most of the time fake Twitter accounts simply spew off tweets that directly benefit themselves, like linking directly to their site. However, there are many fake accounts that simply post gibberish or random incoherent thoughts that make absolutely no sense.
@@ -64,7 +64,7 @@ Most of the time fake Twitter accounts simply spew off tweets that directly bene
 ### Has Not Tweeted in Years
 
 <p align="left">
-  <img src="../../../python/assets/Has-Not-Tweeted-In-Years.png" alt="not tweeted in years">
+  <img src="../../../assets/Has-Not-Tweeted-In-Years.png" alt="not tweeted in years">
 </p>
 
 Back in the earlier, wild-west days of Twitter, automation was manipulated quite a bit. However, as Twitter has evolved their API access and rules, previous bots and some of their automation no longer work. An easy way to spot this is in accounts that have not tweeted in months or even years. Looking at the time stamp of the most recent tweets, you can get a good idea of the Twitter account is no longer active. For example, the Twitter account in the image above has not tweeted since 2011.
@@ -86,7 +86,7 @@ Another common sign of a bot account is an account that does not tend to have an
 ### An Unrealistic Amount of Tweets
 
 <p align="left">
-  <img src="../../../python/assets/An-Insane-Amount-of-Tweets.png" alt="insane amount of tweets">
+  <img src="../../../assets/An-Insane-Amount-of-Tweets.png" alt="insane amount of tweets">
 </p>
 
 No doubt automation has its place in Twitter when used responsibly. However, a sure sign of an automated/fake account is typically an insane amount of tweets that is more than likely not humanly possible. I mean, who has the time to tweet 123,684 times? In the image above you can see how tweeting this often did wonders for increasing the amount of followers for this account.

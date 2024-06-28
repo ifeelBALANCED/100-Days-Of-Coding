@@ -9,7 +9,7 @@ Eating is not limited by the remaining amounts of spaghetti or stomach space; an
 Design a discipline of behaviour (a concurrent algorithm) such that no philosopher will starve; i.e., each can forever continue to alternate between eating and thinking, assuming that no philosopher can know when others may want to eat or think.
 
 <p align="left">
-  <img src="../../assets/dining_philosophers_problem.png" width=400 height=400 alt="Dining Philosophers">
+  <img src="../../../assets/dining_philosophers_problem.png" width=400 height=400 alt="Dining Philosophers">
 </p>
 
 The philosophers' ids are numbered from **0** to **4** in a **clockwise** order. Implement the function void wantsToEat(philosopher, pickLeftFork, pickRightFork, eat, putLeftFork, putRightFork) where:
