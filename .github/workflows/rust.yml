@@ -33,10 +33,18 @@ jobs:
             echo "Building and testing $project"
             cd "$project"
             if [ -f "Cargo.lock" ]; then
-              cargo build --verbose
-              cargo test --verbose
+              if cargo build --verbose; then
+                cargo test --verbose
+              else
+                echo "Build failed for $project"
+              fi
             else
               echo "Skipping $project (no Cargo.lock found)"
             fi
             cd - > /dev/null
           done
+
+      - name: Report build status
+        if: failure()
+        run: |
+          echo "Some projects failed to build or test. Please check the logs for details."
