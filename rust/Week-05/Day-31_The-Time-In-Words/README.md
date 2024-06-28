@@ -3,7 +3,7 @@
 Given the time in numerals we may convert it into words, as shown below: 
 
 <p align="left">
-  <img src="../../assets/The Time in Words.png" alt="The Time in Words">
+  <img src="../../../assets/The Time in Words.png" alt="The Time in Words">
 </p>
 
 ## Details

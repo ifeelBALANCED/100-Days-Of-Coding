@@ -17,7 +17,7 @@ The current constrains must be taken into account:
 ### An Egghead
 
 <p align="left">
-  <img src="../../assets/twitter-egghead.png" alt="egg head">
+  <img src="../../../assets/twitter-egghead.png" alt="egg head">
 </p>
 
 By egghead, I am referring to the Twitter user in question not taking the time to upload a profile image. Most real people will upload some sort of profile image. While not every egghead is a fake or bot account, this is typically a sign of a lazy person. Or a bot.
@@ -25,7 +25,7 @@ By egghead, I am referring to the Twitter user in question not taking the time t
 ### Stock Profile Images
 
 <p align="left">
-  <img src="../../assets/Twitter-Stock-Image-Profile.png" alt="stock image avatar">
+  <img src="../../../assets/Twitter-Stock-Image-Profile.png" alt="stock image avatar">
 </p>
 
 While this move might be a step up from being an egghead, most fake accounts get this wrong. They either use stock images or a profile image shared by other fake accounts.
