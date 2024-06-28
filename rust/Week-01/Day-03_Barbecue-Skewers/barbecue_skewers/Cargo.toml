@@ -1,0 +1,6 @@
+[package]
+name = "Day-03_Barbecue-Skewers"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
