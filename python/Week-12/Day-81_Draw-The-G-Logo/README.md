@@ -3,13 +3,13 @@
 Write a program or function that takes in a positive integer N, and outputs an N×N pixel image of Google's "G" logo according to this\* construction:
 
 <p align="left">
-  <img src="../../assets/google_logo.png" width=600 height=600 alt="google logo">
+  <img src="../../../assets/google_logo.png" width=600 height=600 alt="google logo">
 </p>
 
 For example, if N is 200, a 200×200 pixel logo should be output, with correct dimensions and colors:
 
 <p align="left">
-  <img src="../../assets/google_logo_2.png" width=200 height=200 alt="google logo">
+  <img src="../../../assets/google_logo_2.png" width=200 height=200 alt="google logo">
 </p>
 
 - It should look accurate regardless of how large or small N is.

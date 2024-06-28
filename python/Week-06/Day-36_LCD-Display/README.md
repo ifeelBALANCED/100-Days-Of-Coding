@@ -18,7 +18,7 @@ Be sure to fill all the white space occupied by the digits with blanks, includin
 
 ### Examples for input (n=12345, s=2) and (n=67890, s=3):
 <p align="left">
-  <img src="../../assets/lcd.png" alt="LCD">
+  <img src="../../../assets/lcd.png" alt="LCD">
 </p>
 
 

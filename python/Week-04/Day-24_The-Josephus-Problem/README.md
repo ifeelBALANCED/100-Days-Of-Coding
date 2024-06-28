@@ -5,7 +5,7 @@ This classic problem dates back to Roman times. There are 41 soldiers arranged i
 Generalize this problem by creating a function that accepts the number of soldiers `n` and the interval at which they are killed `i`, and returns the position of the fortunate survivor.
 
 <p align="left">
-  <img src="../../assets/josephus-problem.jpg" alt="Josephus Problem">
+  <img src="../../../assets/josephus-problem.jpg" alt="Josephus Problem">
 </p>
 
 ### Example

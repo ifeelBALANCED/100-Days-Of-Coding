@@ -7,7 +7,7 @@ Each server has a name and an ip (names aren't necessarily unique, but ips are).
 For simplicity, we'll assume that an **nginx** command is of form "**command ip;**" where **command** is a string consisting of English lowercase letter only, and ip is the ip of one of school servers.
 
 <p align="center">
-  <img src="../../assets/Dustin.png" alt="OMG">
+  <img src="../../../assets/Dustin.png" alt="OMG">
 </p>
 
 
