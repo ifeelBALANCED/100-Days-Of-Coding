@@ -3,7 +3,7 @@
 A common typing error is to place your hands on the keyboard one row to the right of the correct position. Then “Q” is typed as “W” and “J” is typed as “K” and so on.
 
 <p align="left">
-  <img src="../../assets/keyboard.png" alt="Keyboard">
+  <img src="../../../assets/keyboard.png" alt="Keyboard">
 </p>
 
 Your task is to decode a message typed in this manner.
