@@ -1,0 +1,13 @@
+/target
+.idea/
+.vscode/
+.env
+
+# python gitignore
+.pyre/
+__pycache__/
+__pypackages__/
+.venv
+env/
+venv/
+ENV/
