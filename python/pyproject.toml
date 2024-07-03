@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "100-days-of-coding"
+version = "0.1.0"
+description = "Python side of 100 Days Of Coding challenge "
+authors = ["Andriy Sydorenko <sidorenkoandrij217@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+pytest = "^8.2.2"
+sympy = "^1.12.1"
+pylint = "^3.2.5"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
